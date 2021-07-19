@@ -1,0 +1,10 @@
+<!DOCTYPE html><html><head><title>Error Page</title><style type="text/css">html{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:1em}.center-box{margin: 20% auto auto auto;width: 50%;border: 1px solid #dcdcdc;padding: 1em;}
+</style><title>Security Violation (502)</title></head></head><body>
+<div class="center-box">
+    <h3>www.cars24.com&nbsp;|&nbsp;Bad Gateway (502)</h3>
+    <h4>Backend Server Error.</h2>
+    <p>The server you are looking for is currently not available.</p>
+    <p>Ref: <span id="addr">110.224.163.49</span>&nbsp;<span id="time">1612015842</span></p>
+</div></body><script>document.getElementById("time").innerHTML = (new Date()).toISOString()</script>
+</html>
+
